@@ -46,7 +46,7 @@ The project follows a clean layered architecture pattern:
 1. Clone the repository
 ```bash
 git clone https://github.com/isMarouaneBen/JeuJava
-cd Console-Game-Java
+cd JeuJava
 ```
 
 2. Build the project
