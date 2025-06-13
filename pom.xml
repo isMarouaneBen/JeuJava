@@ -7,6 +7,16 @@
     <groupId>org.example</groupId>
     <artifactId>ConsoleGameJava</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <name>Jungle Game</name>
+    <description>A console-based implementation of the traditional Chinese board game Jungle (Xou Dou Qi)</description>
+
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>http://www.opensource.org/licenses/mit-license.php</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
 
     <properties>
         <maven.compiler.source>23</maven.compiler.source>

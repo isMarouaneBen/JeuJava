@@ -45,7 +45,7 @@ The project follows a clean layered architecture pattern:
 
 1. Clone the repository
 ```bash
-git clone [repository-url]
+git clone https://github.com/isMarouaneBen/JeuJava
 cd Console-Game-Java
 ```
 
@@ -134,7 +134,7 @@ mvn test
 ```
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - Original Jungle Game creators
