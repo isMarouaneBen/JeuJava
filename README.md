@@ -45,7 +45,7 @@ The project follows a clean layered architecture pattern:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/isMarouaneBen/JeuJava
+git clone https://github.com/isMarouaneBen/JeuJava.git
 cd JeuJava
 ```
 
@@ -104,14 +104,14 @@ CREATE TABLE GAME_HISTORY (
 ## Game Rules
 
 ### Piece Hierarchy (Strongest to Weakest)
-1. ELEPHANT (象)
-2. LION (狮)
-3. TIGER (虎)
-4. PANTHER (豹)
-5. WOLF (狼)
-6. DOG (狗)
-7. CAT (猫)
-8. RAT (鼠)
+1. ELEPHANT
+2. LION 
+3. TIGER 
+4. PANTHER
+5. WOLF
+6. DOG 
+7. CAT 
+8. RAT 
 
 ### Special Rules
 - RAT and ELEPHANT can capture each other (except when RAT is in river)
